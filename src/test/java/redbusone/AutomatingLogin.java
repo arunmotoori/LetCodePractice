@@ -15,6 +15,8 @@ public class AutomatingLogin {
 
 	public static void main(String[] args) {
 		
+		//Have to try in different browsers
+		
 		//We are using this ChromeOptions to disable the notification alert
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--disable-notifications");
