@@ -13,7 +13,7 @@ public class TutorialsNinjaFooterOptions {
 		driver.manage().window().maximize();
 		driver.get("https://tutorialsninja.com/demo/");
 		
-		//String xpathText = "//footer//li/a[text()='xyz']";
+		String xpathText = "//footer//li/a[text()='xyz']";
 		
 		String[] ar = {"About Us","Privacy Policy","Terms & Conditions",
 				"Contact Us","Returns","Site Map","Brands","Gift Certificates",
