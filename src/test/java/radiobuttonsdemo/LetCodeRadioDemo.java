@@ -50,9 +50,7 @@ public class LetCodeRadioDemo {
 		}
 		
 		Thread.sleep(3000);
-		
-		
-		
+	
 		driver.quit();
 		
 	}
